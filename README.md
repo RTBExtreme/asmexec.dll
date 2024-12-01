@@ -4,7 +4,7 @@ Broken ones: cli,hlt,ret
 
 How to clone repo on Windows?
 
-You will need: gcc,windres
+You will need: gcc,windres,make
 
 1. Open CMD
 
